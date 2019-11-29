@@ -31,9 +31,10 @@ _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented i
 
 New in XSLT 3.0, and implemented since Saxon 9.7.
 
-## Links to W3C specifications
+## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-accept)
+- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/accept)
 
 ## See also
 

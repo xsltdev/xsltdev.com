@@ -56,9 +56,10 @@ Accumulators (unlike [`xsl:key`](xsl-key.md) elements) are applicable to some so
 
 The XSLT 3.0 specification contains a number of [examples](http://www.w3.org/TR/xslt-30/#accumulator-examples) illustrating the use of accumulators, and studying these examples is probably the best way to gain an understanding of the feature.
 
-## Links to W3C specifications
+## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-accumulator)
+- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/accumulator)
 
 ## See also
 
