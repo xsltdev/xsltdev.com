@@ -1,0 +1,49 @@
+{
+	"printWidth": 80,
+	"useTabs": true,
+	"tabWidth": 4,
+	"semi": false,
+	"singleQuote": true,
+	"overrides": [
+		{
+			"files": "*.md",
+			"options": {
+				"parser": "markdown",
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		},
+		{
+			"files": ".pages",
+			"options": {
+				"parser": "markdown",
+				"useTabs": false,
+				"tabWidth": 4
+			}
+		},
+		{
+			"files": ".xml",
+			"options": {
+				"parser": "html",
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		},
+		{
+			"files": ".xsl",
+			"options": {
+				"parser": "html",
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		},
+		{
+			"files": ".xslt",
+			"options": {
+				"parser": "html",
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		}
+	]
+}

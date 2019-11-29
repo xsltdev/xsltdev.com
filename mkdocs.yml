@@ -1,0 +1,51 @@
+site_name: 'XSLT'
+site_url: 'https://xsltdev.com/'
+site_description: 'XSLT Documentation'
+site_author: 'xsltdev.com'
+copyright: '(С) 2019, XSLT Documentation and examples'
+
+repo_name: 'Github'
+repo_url: 'https://github.com/xsltdev/xsltdev.com'
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'green'
+        accent: 'green'
+    language: 'en'
+    #    favicon: 'assets/images/favicon.ico'
+    feature:
+        tabs: true
+    #font:
+    #text: 'Roboto'
+    #code: 'Roboto Mono'
+    logo:
+        icon: 'code'
+
+extra:
+    social:
+        - type: 'github'
+          link: 'https://github.com/xsltdev'
+    #        - type: 'linkedin'
+    #          link: 'https://www.linkedin.com/in/bndby/'
+    search:
+        language: 'en'
+
+#google_analytics:
+#    - 'UA-34215161-1'
+#    - 'auto'
+
+markdown_extensions:
+    - admonition
+    - codehilite:
+          guess_lang: false
+          linenums: false
+    - toc:
+          permalink: true
+    - pymdownx.extra
+    - pymdownx.details
+    - pymdownx.emoji
+
+plugins:
+    - search
+    - awesome-pages
