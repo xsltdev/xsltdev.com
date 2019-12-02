@@ -40,6 +40,7 @@ The test condition in the `xsl:when` element is a boolean expression. The full s
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-choose)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-choose)
+- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/choose)
 
 ## See also
 
