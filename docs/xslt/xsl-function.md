@@ -9,7 +9,7 @@ Defines a function within a stylesheet. The function is written in XSLT but it m
 _Available in XSLT 2.0 and later versions. Available in all Saxon editions._
 
 - **Category**: declaration
-- **Content**: ( [`xsl:param`](xsl-param.md)* , *sequence-constructor\* )
+- **Content**: ( `[xsl:param](xsl-param.md)*` , _sequence-constructor_ )
 - **Permitted parent elements**: [`xsl:package`](xsl-package.md); [`xsl:stylesheet`](xsl-stylesheet.md); [`xsl:transform`](xsl-transform.md); [`xsl:override`](xsl-override.md)
 
 ## Attributes
