@@ -1,0 +1,27 @@
+{% extends "base.html" %} {% block site_nav %} {% if nav %}
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+	<div class="md-sidebar__scrollwrap">
+		<div class="md-sidebar__inner">
+			{% include "partials/nav.html" %}
+		</div>
+	</div>
+</div>
+{% endif %} {% if page.toc %}
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+	<div class="md-sidebar__scrollwrap">
+		<div class="md-sidebar__inner">
+			{% include "partials/toc.html" %}
+		</div>
+	</div>
+</div>
+<style>
+	@media only screen and (min-width: 76.25em) {
+		.md-content {
+			margin-left: 0;
+		}
+		.md-sidebar--primary {
+			display: none;
+		}
+	}
+</style>
+{% endif %} {% endblock %}

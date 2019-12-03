@@ -1,3 +1,7 @@
+---
+template: test.html
+---
+
 # Home
 
 ## [XSLT Elements](/xslt/)

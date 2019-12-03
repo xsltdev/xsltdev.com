@@ -9,6 +9,9 @@ repo_url: 'https://github.com/xsltdev/xsltdev.com'
 
 theme:
     name: 'material'
+    custom_dir: 'theme/'
+    static_templates:
+        - 'test.html'
     palette:
         primary: 'green'
         accent: 'green'
