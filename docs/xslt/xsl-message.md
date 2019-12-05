@@ -8,9 +8,9 @@ Causes a message to be displayed.
 
 _Available in XSLT 1.0 and later versions. Available in all Saxon editions._
 
-**Category**: instruction
-**Content**: _sequence-constructor_
-**Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
+- **Category**: instruction
+- **Content**: _sequence-constructor_
+- **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 
 ## Attributes
 

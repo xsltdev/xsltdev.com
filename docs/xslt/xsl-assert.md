@@ -10,7 +10,7 @@ _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented i
 
 - **Category**: instruction
 - **Content**: _sequence-constructor_
-- _Permitted parent elements_: any XSLT element whose content model is _sequence-constructor_; any literal result element
+- **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 
 ## Attributes
 

@@ -8,9 +8,9 @@ Used to import the contents of one stylesheet module into another.
 
 Available in XSLT 1.0 and later versions. Available in all Saxon editions.
 
-- Category: declaration
-- Content: none
-- Permitted parent elements: xsl:package ; xsl:stylesheet ; xsl:transform
+- **Category**: declaration
+- **Content**: none
+- **Permitted parent elements**: [`xsl:package`](xsl-package.md); [`xsl:stylesheet`](xsl-stylesheet.md); [`xsl:transform`](xsl-transform.md)
 
 ## Attributes
 

@@ -9,7 +9,7 @@ Used to iterate over a sequence, with the option to set parameters for use in th
 _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented in Saxon-PE and Saxon-EE since Saxon 9.6._
 
 - **Category**: instruction
-- **Content**: ( [xsl:param](xsl-param.md)* , [xsl:on-completion](xsl-on-completion.md)? , *sequence-constructor\* )
+- **Content**: ( [`xsl:param`](xsl-param.md)\* , [`xsl:on-completion`](xsl-on-completion.md)? , _sequence-constructor_ )
 - **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 
 ## Attributes

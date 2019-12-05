@@ -4,12 +4,12 @@ description: The result of the xsl:fork instruction is the sequence formed by co
 
 # xsl:fork
 
-The result of the xsl:fork instruction is the sequence formed by concatenating the results of evaluating each of its contained instructions, in order.
+The result of the **`xsl:fork`** instruction is the sequence formed by concatenating the results of evaluating each of its contained instructions, in order.
 
 _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented in Saxon-PE and Saxon-EE since Saxon 9.7._
 
 - **Category**: instruction
-- **Content**: `( [xsl:fallback](xsl-fallback.md)*, ( ( [xsl:sequence](xsl-sequence.md), [xsl:fallback](xsl-fallback.md)* )* | ( [xsl:for-each-group](xsl-for-each-group.md), [xsl:fallback](xsl-fallback.md)* ) ) )`
+- **Content**: ( [`xsl:fallback`](xsl-fallback.md)\*, ( ( [`xsl:sequence`](xsl-sequence.md), [`xsl:fallback`](xsl-fallback.md)\* )\* | ( [`xsl:for-each-group`](xsl-for-each-group.md), [`xsl:fallback`](xsl-fallback.md)\* ) ) )
 - **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 - **Element has no attributes**
 

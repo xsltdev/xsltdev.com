@@ -9,8 +9,8 @@ Causes iteration over the nodes selected by a node-set expression.
 Available in XSLT 1.0 and later versions. Available in all Saxon editions.
 
 - **Category**: instruction
-- **Content**: ( [`xsl:sort`](xsl-sort.md)* , *sequence-constructor\* )
-- _Permitted parent elements_: any XSLT element whose content model is _sequence-constructor_; any literal result element
+- **Content**: ( [`xsl:sort`](xsl-sort.md)\* , _sequence-constructor_ )
+- **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 
 ## Attributes
 

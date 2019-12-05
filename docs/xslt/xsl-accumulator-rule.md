@@ -8,7 +8,7 @@ Defines a rule for an [`xsl:accumulator`](xsl-accumulator.md).
 
 _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented in Saxon-PE and Saxon-EE since Saxon 9.6._
 
-- **Content**: sequence-constructor
+- **Content**: _sequence-constructor_
 - **Permitted parent elements**: [`xsl:accumulator`](xsl-accumulator.md)
 
 ## Attributes

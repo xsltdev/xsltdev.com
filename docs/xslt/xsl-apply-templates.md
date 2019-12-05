@@ -10,7 +10,7 @@ _Available in XSLT 1.0 and later versions. Available in all Saxon editions._
 
 - **Category**: instruction
 - **Content**: ( [`xsl:sort`](xsl-sort.md) | [`xsl:with-param`](xsl-with-param.md) )\*
-- **Permitted parent elements**: any XSLT element whose content model is `sequence-constructor`; any literal result element
+- **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 
 ## Attributes
 

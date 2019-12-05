@@ -9,7 +9,7 @@ Selects a sequence of nodes and/or atomic values and organizes them into subsets
 _Available in XSLT 2.0 and later versions. Available in all Saxon editions._
 
 - **Category**: instruction
-- **Content**: ( [`xsl:sort`](xsl-sort.md)* , *sequence-constructor\* )
+- **Content**: ( [`xsl:sort`](xsl-sort.md)\* , _sequence-constructor_ )
 - **Permitted parent elements**: any XSLT element whose content model is _sequence-constructor_; any literal result element
 
 ## Attributes
