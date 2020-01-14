@@ -15,7 +15,7 @@ _Available in XSLT 2.0 and later versions. Available in all Saxon editions._
 ## Attributes
 
 `select?`
-: expression
+: _expression_
 : The input sequence may be defined either by an expression within the optional `select` attribute, or by the enclosed sequence constructor.
 
 ## Details
