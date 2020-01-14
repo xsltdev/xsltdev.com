@@ -69,7 +69,7 @@ The element always appears as a child of [`xsl:stylesheet`](xsl-stylesheet.md) (
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-mode)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/mode)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/mode.html)
 
 ## See also
 

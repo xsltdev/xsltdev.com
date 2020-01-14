@@ -46,7 +46,7 @@ When processing matching substrings, it is possible to call the [`regex-group()`
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-analyze-string)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-analyze-string)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/analyze-string)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/analyze-string.html)
 
 ## See also
 

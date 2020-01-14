@@ -27,7 +27,7 @@ For details see [`xsl:iterate`](xsl-iterate.md).
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-break)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/break)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/break.html)
 
 ## See also
 

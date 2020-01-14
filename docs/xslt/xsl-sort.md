@@ -103,7 +103,7 @@ Sorting with `xsl:for-each` using Unicode Collation Algorithm. `<BOOK>` elements
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-sort)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-sort)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/sort)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/sort.html)
 
 ## See also
 

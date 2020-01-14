@@ -16,7 +16,7 @@ _Available in XSLT 2.0 and later versions. Available in all Saxon editions._
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-matching-substring)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-matching-substring)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/matching-substring)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/matching-substring.html)
 
 ## See also
 

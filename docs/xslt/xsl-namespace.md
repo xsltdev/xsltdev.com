@@ -32,7 +32,7 @@ It is rarely necessary to use this instruction explicitly. The only cases it is 
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-namespace)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-namespace)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/namespace)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/namespace.html)
 
 ## See also
 

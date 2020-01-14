@@ -25,4 +25,4 @@ If the parent element can be instantiated and processed, the `xsl:fallback` elem
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-fallback)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-fallback)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/fallback)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/fallback.html)

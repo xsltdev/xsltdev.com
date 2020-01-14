@@ -32,7 +32,7 @@ New in XSLT 3.0, and implemented since Saxon 9.7.
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-expose)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/expose)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/expose.html)
 
 ## See also
 

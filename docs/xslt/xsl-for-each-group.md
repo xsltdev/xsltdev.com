@@ -64,7 +64,7 @@ For examples of using the instruction, see the [XSLT 2.0 specification](http://w
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-for-each-group)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-for-each-group)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/for-each-group)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/for-each-group.html)
 
 ## See also
 

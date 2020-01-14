@@ -37,7 +37,7 @@ It's often useful to use `xsl:perform-sort` inside a stylesheet function; the fu
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-perform-sort)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-perform-sort)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/perform-sort)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/perform-sort.html)
 
 ## See also
 

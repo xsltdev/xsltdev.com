@@ -44,7 +44,7 @@ Making a deep copy of an element is particularly useful during streaming. For th
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-copy-of)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-copy-of)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/copy-of)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/copy-of.html)
 
 ## See also
 

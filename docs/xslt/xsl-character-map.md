@@ -42,7 +42,7 @@ Character maps are preferred to `disable-output-escaping` because they do not re
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-character-map)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-character-map)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/character-map)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/character-map.html)
 
 ## See also
 

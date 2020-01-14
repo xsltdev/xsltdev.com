@@ -71,7 +71,7 @@ Some examples of the most useful forms of select expression:
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-apply-templates)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-apply-templates)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/apply-templates)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/apply-templates.html)
 
 ## See also
 

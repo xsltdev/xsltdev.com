@@ -56,6 +56,7 @@ To make this streamable, it can be rewritten using the `xsl:on-non-empty` instru
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-on-non-empty)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/on-non-empty.html)
 
 ## See also
 

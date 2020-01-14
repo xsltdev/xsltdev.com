@@ -32,7 +32,7 @@ The context of the called template (for example the current node and current nod
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-call-template)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-call-template)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/call-template)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/call-template.html)
 
 ## See also
 

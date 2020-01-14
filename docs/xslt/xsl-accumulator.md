@@ -59,7 +59,7 @@ The XSLT 3.0 specification contains a number of [examples](http://www.w3.org/TR/
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-accumulator)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/accumulator)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/accumulator.html)
 
 ## See also
 

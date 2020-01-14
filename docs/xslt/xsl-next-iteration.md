@@ -22,7 +22,7 @@ For details see [`xsl:iterate`](xsl-iterate.md).
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-next-iteration)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/next-iteration)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/next-iteration.html)
 
 ## See also
 

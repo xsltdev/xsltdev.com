@@ -87,7 +87,7 @@ It is quite legitimate to have two attributes in the sequence with the same name
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-sequence)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-sequence)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/sequence)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/sequence.html)
 
 ## See also
 

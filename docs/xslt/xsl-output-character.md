@@ -29,7 +29,7 @@ See [`xsl:character-map`](xsl-character-map.md) for further details.
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-output-character)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-output-character)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/output-character)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/output-character.html)
 
 ## See also
 

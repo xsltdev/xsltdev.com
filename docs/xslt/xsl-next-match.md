@@ -23,7 +23,7 @@ In practice `xsl:next-match` is nearly always preferable to `xsl:apply-imports` 
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-next-match)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-next-match)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/next-match)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/next-match.html)
 
 ## See also
 

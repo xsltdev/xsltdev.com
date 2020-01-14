@@ -104,4 +104,4 @@ The call `x:factorial(1, 5)` returns `120`.
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-function)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-function)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/function)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/function.html)

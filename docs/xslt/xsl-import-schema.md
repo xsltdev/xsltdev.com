@@ -30,7 +30,7 @@ The `xsl:import-schema` declaration requires a schema-aware processor, so is onl
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-import-schema)
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-import-schema)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/import-schema)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/import-schema.html)
 
 ## See also
 

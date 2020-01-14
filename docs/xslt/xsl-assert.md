@@ -45,4 +45,4 @@ The following code tests whether the value of \$x is non-negative, and if not, f
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-assert)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/assert)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/assert.html)

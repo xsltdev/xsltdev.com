@@ -66,7 +66,7 @@ Select the class `MessageWarner` to have `xsl:message` output notified to the JA
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-message)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-message)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/message)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/message.html)
 
 ## See also
 

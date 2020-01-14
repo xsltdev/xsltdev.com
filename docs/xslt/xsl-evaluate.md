@@ -79,7 +79,7 @@ Sorting product elements according to a sort key supplied (in the form of an XPa
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-evaluate)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/evaluate)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/evaluate.html)
 
 ## See also
 

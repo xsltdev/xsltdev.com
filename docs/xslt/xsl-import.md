@@ -36,7 +36,7 @@ The elements in the imported stylesheet have lower precedence than the elements 
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-import)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-import)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/import)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/import.html)
 
 ## See also
 

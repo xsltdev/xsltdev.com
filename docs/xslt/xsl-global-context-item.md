@@ -31,4 +31,4 @@ An earlier draft of the XSLT 3.0 specification defined attributes `streamable` a
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-global-context-item)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/global-context-item)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/global-context-item.html)

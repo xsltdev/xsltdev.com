@@ -50,7 +50,7 @@ To make this streamable, it can be rewritten using the `xsl:on-empty` instructio
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-on-empty)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/on-empty)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/on-empty.html)
 
 ## See also
 

@@ -36,4 +36,4 @@ The `xsl:processing-instruction` element can appear anywhere within an [`xsl:tem
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-processing-instruction)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-processing-instruction)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/processing-instruction)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/processing-instruction.html)

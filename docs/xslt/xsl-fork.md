@@ -26,7 +26,7 @@ The Saxon 9.6 implementation of [`xsl:fork`](xsl-fork.md) in streaming mode does
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-fork)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/fork)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/fork.html)
 
 ## See also
 

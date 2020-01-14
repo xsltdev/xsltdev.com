@@ -39,7 +39,7 @@ The error can be re-thrown by using the `error()` function.
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-catch)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/catch)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/catch.html)
 
 ## See also
 

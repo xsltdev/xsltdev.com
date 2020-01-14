@@ -78,7 +78,7 @@ Sorting with `xsl:for-each`. This example shows a template for a `<BOOKLIST>` el
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-for-each)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-for-each)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/for-each)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/for-each.html)
 
 ## See also
 

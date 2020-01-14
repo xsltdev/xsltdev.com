@@ -28,4 +28,4 @@ Implemented since Saxon 9.7. The initial implementation is functionally complete
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-context-item)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/context-item)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/context-item.html)

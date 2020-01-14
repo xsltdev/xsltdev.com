@@ -46,7 +46,7 @@ Attribute sets named in the `xsl:use-attribute-sets` or `use-attribute-sets` att
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-attribute-set)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-attribute-set)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/attribute-set)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/attribute-set.html)
 
 ## See also
 

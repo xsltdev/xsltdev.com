@@ -21,6 +21,7 @@ New in XSLT 3.0, and first fully implemented in Saxon 9.7.
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-override)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/override.html)
 
 ## See also
 

@@ -32,7 +32,7 @@ The `xsl:include` element may also be used at the top level of the included styl
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-include)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-include)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/include)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/include.html)
 
 ## See also
 

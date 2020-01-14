@@ -68,7 +68,7 @@ _Available in XSLT 1.0 and later versions. Available in all Saxon editions._
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-stylesheet)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-stylesheet)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/stylesheet)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/stylesheet.html)
 
 ## See also
 

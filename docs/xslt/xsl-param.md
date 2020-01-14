@@ -70,7 +70,7 @@ In XSLT 3.0, `xsl:param` can also appear as a child of [`xsl:iterate`](xsl-itera
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-param)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-param)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/param)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/param.html)
 
 ## See also
 

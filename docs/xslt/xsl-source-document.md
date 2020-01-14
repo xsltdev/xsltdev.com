@@ -80,7 +80,7 @@ See further [examples](http://www.w3.org/TR/xslt-30/#stream-examples) in the W3C
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-source-document)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/source-document)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/source-document.html)
 
 ## See also
 

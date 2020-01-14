@@ -25,7 +25,7 @@ _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented i
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-map-entry)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/map-entry)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/map-entry.html)
 
 ## See also
 

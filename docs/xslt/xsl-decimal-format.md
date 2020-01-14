@@ -72,7 +72,7 @@ With XSLT 3.0, the specification of `format-number()` has moved into XPath which
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-decimal-format)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-decimal-format)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/decimal-format)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/decimal-format.html)
 
 ## See also
 

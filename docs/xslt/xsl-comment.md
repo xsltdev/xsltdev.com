@@ -48,4 +48,4 @@ The text below inserts some JavaScript into a generated HTML document:
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-comment)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-comment)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/comment)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/comment.html)

@@ -46,7 +46,7 @@ For details and examples, see [`xsl:merge`](xsl-merge.md).
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-merge-key)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/merge-key)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/merge-key.html)
 
 ## See also
 

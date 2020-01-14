@@ -73,7 +73,7 @@ Packages are available in all Saxon editions. However, only Saxon-EE can be used
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-package)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/package)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/package.html)
 
 ## See also
 

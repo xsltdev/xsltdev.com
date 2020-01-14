@@ -36,7 +36,7 @@ For an example of the use of a capturing accumulator rule to construct the gloss
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-accumulator-rule)
-- [Saxon](http://www.saxonica.com/documentation/index.html#!xsl-elements/accumulator-rule)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/accumulator-rule.html)
 
 ## See also
 

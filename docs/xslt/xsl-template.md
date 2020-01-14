@@ -79,7 +79,7 @@ A simple XSLT template for a particular element. This example causes all `<ptitl
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-template)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-template)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/template)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/template.html)
 
 ## See also
 

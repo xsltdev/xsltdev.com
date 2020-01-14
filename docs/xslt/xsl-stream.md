@@ -68,7 +68,7 @@ See further [examples](http://www.w3.org/TR/xslt-30/#stream-examples) in the W3C
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-stream)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/stream)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/stream.html)
 
 ## See also
 

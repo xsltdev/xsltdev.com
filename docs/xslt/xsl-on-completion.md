@@ -30,7 +30,7 @@ During execution of `xsl:on-completion` there is no context item, position or si
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-on-completion)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/on-completion)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/on-completion.html)
 
 ## See also
 

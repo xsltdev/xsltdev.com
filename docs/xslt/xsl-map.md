@@ -50,7 +50,7 @@ The sequence constructor must evaluate to a sequence of maps. These can be const
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-map)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/map)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/map.html)
 
 ## See also
 

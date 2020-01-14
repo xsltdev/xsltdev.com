@@ -65,7 +65,7 @@ Merges two log files with different internal structure:
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-merge)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/merge)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/merge.html)
 
 ## See also
 

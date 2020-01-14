@@ -124,7 +124,7 @@ The following outputs the title child of an `<H2>` element preceded by a composi
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-number)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-number)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/number)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/number.html)
 
 ## See also
 

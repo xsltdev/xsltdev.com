@@ -38,4 +38,4 @@ The following example allows the prefix `outxsl` to be used for output elements 
 
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-namespace-alias)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-namespace-alias)
-- [Saxon](http://saxonica.com/documentation/index.html#!xsl-elements/namespace-alias)
+- [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/namespace-alias.html)
