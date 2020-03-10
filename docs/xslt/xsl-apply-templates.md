@@ -44,7 +44,7 @@ The `xsl:apply-templates` element is usually empty, in which case the selected n
 The selected nodes are processed in a particular context. This context includes:
 
 - A current node: the node being processed.
-- A current node list: the list of nodes being processed, in the order they are processed (this affects the value of the [`position()`](../xpath/position.md) and [`last()`](last.md) functions).
+- A current node list: the list of nodes being processed, in the order they are processed (this affects the value of the `position()` and `last()` functions).
 - A set of variables, which initially is those variables defined as parameters.
 
 The full syntax of select expressions is outlined in [XPath Expression Syntax](http://www.saxonica.com/documentation/index.html#!expressions); some examples of the most useful forms of select expression are given in the example below.

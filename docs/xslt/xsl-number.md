@@ -84,7 +84,7 @@ The attribute `start-at` is new in XSLT 3.0 and implemented since Saxon 9.5.
 
 Saxon-EE 9.8 contains a new optimization of `<xsl:number level="any">`, based on XSLT 3.0 accumulators. Provided the parameters of the instruction are context-free (and with various other conditions, for example the nodes being numbered must not be attributes or namespaces), Saxon will evaluate the sequence numbers using an accumulator, which means that all the nodes in a document are numbered in a single pass, rather than each execution of `xsl:number` requiring a backwards search through the document.
 
-In XSLT 3.0 some of the capabilities of the `xsl:number` instruction - specifically the formatting capabilities - are more conveniently packaged via the new [`format-integer()`](../xpath/fn-format-integer.md) function, which is also available in XPath and XQuery.
+In XSLT 3.0 some of the capabilities of the `xsl:number` instruction - specifically the formatting capabilities - are more conveniently packaged via the new `format-integer()` function, which is also available in XPath and XQuery.
 
 ## Details
 
@@ -128,5 +128,4 @@ The following outputs the title child of an `<H2>` element preceded by a composi
 
 ## See also
 
-- [`format-integer()`](../xpath/fn-format-integer.md)
 - [`xsl:decimal-format`](xsl-decimal-format.md)

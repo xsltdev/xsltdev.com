@@ -57,7 +57,3 @@ Note that:
 - [XSLT 2.0 Specification](http://www.w3.org/TR/xslt20/#element-key)
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-key)
 - [Saxon](https://www.saxonica.com/html/documentation/xsl-elements/key.html)
-
-## See also
-
-- [`key()`](../xpath/fn-key.md)

@@ -48,7 +48,7 @@ The idea of accumulators is to define some processing that is to take place whil
 
 Accumulators have a procedural feel to them, because the state of the accumulator is modified as the document is processed. Nevertheless, they are functionally "clean": the value of an accumulator at a particular node is a pure function of the node. Functional programming enthusiasts will recognize accumulators as being very similar to the "fold" operation that is often used to apply an operation to every item in a sequence, in turn.
 
-An accumulator is accessible through two functions: the pre-descent function [`accumulator-before()`](../xpath/accumulator-before.md) and the post-descent function [`accumulator-after()`](../xpath/accumulator-after.md). These functions can be called supplying an accumulator as argument, to give the value of the accumulator for the context node before processing its children, and after processing its children. Sometimes the only value of interest is the post-descent value for the document node, that is, the value of the accumulator after the entire document has been processed.
+An accumulator is accessible through two functions: the pre-descent function `accumulator-before()` and the post-descent function `accumulator-after()`. These functions can be called supplying an accumulator as argument, to give the value of the accumulator for the context node before processing its children, and after processing its children. Sometimes the only value of interest is the post-descent value for the document node, that is, the value of the accumulator after the entire document has been processed.
 
 Accumulators (unlike [`xsl:key`](xsl-key.md) elements) are applicable to some source documents and not others; the rules can be found at [Applicability of Accumulators](https://www.w3.org/TR/xslt-30/#applicability-of-accumulators).
 
@@ -64,5 +64,3 @@ The XSLT 3.0 specification contains a number of [examples](http://www.w3.org/TR/
 ## See also
 
 - [`xsl:accumulator-rule`](xsl-accumulator-rule.md)
-- [`accumulator-after()`](../xpath/accumulator-after.md)
-- [`accumulator-before()`](../xpath/accumulator-before.md)

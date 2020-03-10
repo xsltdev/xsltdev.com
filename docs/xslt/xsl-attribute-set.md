@@ -36,7 +36,7 @@ An attribute-set contains a collection of [`xsl:attribute`](xsl-attribute.md) el
 
 The attributes in an attribute-set can be used in several ways:
 
-- They can be added to a literal result element by specifying [`xsl:use-attribute-sets`](xsl-use-attribute-sets.md) in the list of attributes for the element. The value is a space-separated list of attribute-set names. Attributes specified explicitly on the literal result element, or added using [`xsl:attribute`](xsl-attribute.md), override any that are specified in the attribute-set definition.
+- They can be added to a literal result element by specifying `xsl:use-attribute-sets` in the list of attributes for the element. The value is a space-separated list of attribute-set names. Attributes specified explicitly on the literal result element, or added using [`xsl:attribute`](xsl-attribute.md), override any that are specified in the attribute-set definition.
 - They can be added to an element created using [`xsl:element`](xsl-element.md), by specifying `use-attribute-sets` in the list of attributes for the `xsl:element` element. The value is a space-separated list of attribute-set names. Attributes specified explicitly on the literal result element, or added using `xsl:attribute`, override any that are specified in the attribute-set definition.
 - One attribute set can be based on another by specifying `use-attribute-sets` in the list of attributes for the `xsl:attribute-set` element. Again, attributes defined explicitly in the attribute set override any that are included implicitly from another attribute set.
 

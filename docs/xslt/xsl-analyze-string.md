@@ -36,7 +36,7 @@ Saxon allows the flags attribute to contain "`;j`" or "`;n`" at the end, to indi
 
 The `xsl:analyze-string` element applies a regular expression to a supplied string value. The string is split into a sequence of substrings, each of which is classified as either a matching substring (if it matches the regular expression) or a non-matching substring (if it doesn't). The substrings are then processed individually: the matching substrings by a [`xsl:matching-substring`](xsl-matching-substring.md) element that appears as a child of the `xsl:analyze-string` instruction, the non-matching substrings by a similar [`xsl:non-matching-substring`](xsl-non-matching-substring.md) element. If either of these is omitted, the relevant substrings are not processed.
 
-When processing matching substrings, it is possible to call the [`regex-group()`](../xpath/regex-group.md) function to find the parts of the matching substring that matched particular parenthesized groups within the regular expression.
+When processing matching substrings, it is possible to call the `regex-group()` function to find the parts of the matching substring that matched particular parenthesized groups within the regular expression.
 
 ## Examples
 
@@ -52,7 +52,3 @@ When processing matching substrings, it is possible to call the [`regex-group()`
 
 - [`xsl:matching-substring`](xsl-matching-substring.md)
 - [`xsl:non-matching-substring`](xsl-non-matching-substring.md)
-- [`matches()`](../xpath/matches.md)
-- [`replace()`](../xpath/replace.md)
-- [`tokenize()`](../xpath/tokenize.md)
-- [`regex-group()`](../xpath/regex-group.md)

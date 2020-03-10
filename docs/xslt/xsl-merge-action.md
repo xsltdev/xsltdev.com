@@ -14,7 +14,7 @@ _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented i
 
 ## Notes on the Saxon implementation
 
-In Saxon 9.6 the implementation of the [`current-merge-group()`](../xpath/fn-current-merge-group.md) function did not match the latest W3C specification. Instead of returning a map, it returned a sequence containing all items in the current merge group, regardless which merge source they came from.
+In Saxon 9.6 the implementation of the `current-merge-group()` function did not match the latest W3C specification. Instead of returning a map, it returned a sequence containing all items in the current merge group, regardless which merge source they came from.
 
 Since Saxon 9.7, the implementation conforms with the final Recommendation.
 
@@ -30,4 +30,3 @@ For details and examples, see [`xsl:merge`](xsl-merge.md).
 ## See also
 
 - [`xsl:merge`](xsl-merge.md)
-- [`current-merge-group()`](../xpath/fn-current-merge-group.md)

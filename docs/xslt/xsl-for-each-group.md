@@ -69,5 +69,3 @@ For examples of using the instruction, see the [XSLT 2.0 specification](http://w
 ## See also
 
 - [`xsl:sort`](xsl-sort.md)
-- [`current-group()`](../xpath/fn-current-group.md)
-- [`current-grouping-key()`](../xpath/fn-current-grouping-key.md)

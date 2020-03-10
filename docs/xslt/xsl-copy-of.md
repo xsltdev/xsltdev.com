@@ -38,7 +38,7 @@ Earlier releases of Saxon supported an attribute `saxon:read-once` to control st
 
 ## Details
 
-Making a deep copy of an element is particularly useful during streaming. For this reason XSLT 3.0 introduces an equivalent function, [`copy-of()`](../xpath/fn-copy-of.md). For example one can write `<xsl:for-each select="employee/copy-of()">` which processes a sequence of copies of the selected `<employee>` elements; the significance of using copies is that streaming constraints do not apply, since each `<employee>` element will be represented as a tree in memory, discarded as soon as that element has been processed.
+Making a deep copy of an element is particularly useful during streaming. For this reason XSLT 3.0 introduces an equivalent function, `copy-of()`. For example one can write `<xsl:for-each select="employee/copy-of()">` which processes a sequence of copies of the selected `<employee>` elements; the significance of using copies is that streaming constraints do not apply, since each `<employee>` element will be represented as a tree in memory, discarded as soon as that element has been processed.
 
 ## Links
 
@@ -49,4 +49,3 @@ Making a deep copy of an element is particularly useful during streaming. For th
 ## See also
 
 - [`xsl:copy`](xsl-copy.md)
-- [`copy-of()`](../xpath/fn-copy-of.md)

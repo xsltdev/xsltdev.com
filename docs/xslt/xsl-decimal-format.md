@@ -64,7 +64,7 @@ _Available in XSLT 1.0 and later versions. Available in all Saxon editions._
 
 ## Details
 
-In practice decimal formats are used only for formatting numbers using the [`format-number()`](../xpath/fn-format-number.md) function in XPath expressions.
+In practice decimal formats are used only for formatting numbers using the `format-number()` function in XPath expressions.
 
 With XSLT 3.0, the specification of `format-number()` has moved into XPath which means it is also available in XQuery. The `exponent-separator` attribute is new in XPath 3.1, and allows formating of numbers in scientific notation.
 
@@ -76,5 +76,4 @@ With XSLT 3.0, the specification of `format-number()` has moved into XPath which
 
 ## See also
 
-- [`format-number()`](../xpath/fn-format-number.md)
 - [`xsl:number`](xsl-number.md)
