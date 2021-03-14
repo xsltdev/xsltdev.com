@@ -1,5 +1,7 @@
 ---
-template: test.html
+hide:
+  - navigation # Hide navigation
+  - toc        # Hide table of contents
 ---
 
 # Home

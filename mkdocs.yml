@@ -9,30 +9,22 @@ repo_url: 'https://github.com/xsltdev/xsltdev.com'
 
 theme:
     name: 'material'
-    custom_dir: 'theme/'
-    static_templates:
-        - 'test.html'
     palette:
         primary: 'green'
         accent: 'green'
     language: 'en'
     #    favicon: 'assets/images/favicon.ico'
     feature:
-        tabs: true
+        - navigation.instant
+        - navigation.tabs
+        - navigation.tracking
+        - search.suggest
+        - search.highlight
     #font:
     #text: 'Roboto'
     #code: 'Roboto Mono'
-    logo:
-        icon: 'code'
-
-extra:
-    social:
-        - type: 'github'
-          link: 'https://github.com/xsltdev'
-    #        - type: 'linkedin'
-    #          link: 'https://www.linkedin.com/in/bndby/'
-    search:
-        language: 'en'
+    #logo:
+    #    icon: 'code'
 
 google_analytics:
     - 'UA-156177174-1'
@@ -47,8 +39,15 @@ markdown_extensions:
           permalink: true
     - pymdownx.extra
     - pymdownx.details
-    - pymdownx.emoji
+    - pymdownx.emoji:
+          emoji_index: !!python/name:materialx.emoji.twemoji
+          emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.tabbed
+    - pymdownx.superfences
 
 plugins:
-    - search
+    - search:
+        separator: '[\s\-\:]+'
+        prebuild_index: true
     - awesome-pages
+    - section-index
