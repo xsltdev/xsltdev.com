@@ -38,7 +38,7 @@ _Available in XSLT 1.0 and later versions. Available in all Saxon editions._
 
 ## Notes on the Saxon implementation
 
-Modivated by streaming, the on-empty attribute was introduced in an early Working Draft for XSLT 3.0, but later removed and replaced by the new [`xsl:on-empty`](xsl-on-empty.md), [`xsl:on-non-empty`](xsl-on-non-empty.md) and [`xsl:where-populated`](xsl-where-populated.md) instructions. The `on-empty` attribute was implemented in Saxon 9.5, but removed in 9.7.
+Motivated by streaming, the on-empty attribute was introduced in an early Working Draft for XSLT 3.0, but later removed and replaced by the new [`xsl:on-empty`](xsl-on-empty.md), [`xsl:on-non-empty`](xsl-on-non-empty.md) and [`xsl:where-populated`](xsl-where-populated.md) instructions. The `on-empty` attribute was implemented in Saxon 9.5, but removed in 9.7.
 
 ## Details
 
