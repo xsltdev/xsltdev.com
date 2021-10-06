@@ -1,14 +1,14 @@
 ---
 hide:
   - navigation # Hide navigation
-  - toc        # Hide table of contents
+  - toc # Hide table of contents
 ---
 
 # Home
 
 ## [XSLT Elements](/xslt/)
 
-XSLT 3.0 Elements reference
+XSLT 3.1 Elements reference
 
 <style>div.columns > p:first-child {margin-top: 0}</style>
 <div class="columns" style="column-width: 10rem;" markdown="1">

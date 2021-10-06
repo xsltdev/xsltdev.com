@@ -1,5 +1,4 @@
 ---
-title: when
 description: xsl when - Used within an xsl choose element to indicate one of a number of choices
 ---
 
