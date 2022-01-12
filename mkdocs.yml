@@ -2,7 +2,7 @@ site_name: 'XSLT 3.1 with examples'
 site_url: 'https://xsltdev.com/'
 site_description: 'XSLT 3.1 Documentation with examples'
 site_author: 'xsltdev.com'
-copyright: '(С) 2019 - 2021, XSLT 3.1 Documentation and examples'
+copyright: '(С) 2019 - 2022, XSLT 3.1 Documentation and examples'
 
 repo_name: 'Github'
 repo_url: 'https://github.com/xsltdev/xsltdev.com'
@@ -48,8 +48,3 @@ plugins:
           prebuild_index: true
     - awesome-pages
     - section-index
-
-extra:
-    analytics:
-        provider: google
-        property: UA-156177174-1
