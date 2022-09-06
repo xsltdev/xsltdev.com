@@ -9,6 +9,7 @@ repo_url: 'https://github.com/xsltdev/xsltdev.com'
 
 theme:
     name: 'material'
+    custom_dir: overrides
     palette:
         primary: 'green'
         accent: 'green'
@@ -21,11 +22,8 @@ theme:
         - navigation.top
         - search.suggest
         - search.highlight
-    #font:
-    #text: 'Roboto'
-    #code: 'Roboto Mono'
-    #logo:
-    #    icon: 'code'
+    favicon: xslt.svg
+    logo: xslt.svg
 
 markdown_extensions:
     - admonition
