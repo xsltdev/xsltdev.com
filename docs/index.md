@@ -6,6 +6,8 @@ hide:
 
 # Home
 
+[Discuss in Telegram group  :fontawesome-solid-paper-plane:](https://t.me/xsltdev){ .md-button }
+
 ## [XSLT Elements](/xslt/)
 
 XSLT 3.1 Elements reference
