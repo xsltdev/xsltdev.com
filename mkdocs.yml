@@ -22,6 +22,7 @@ theme:
         - navigation.top
         - search.suggest
         - search.highlight
+        - announce.dismiss
     favicon: xslt.svg
     logo: xslt.svg
 
