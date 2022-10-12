@@ -50,3 +50,6 @@ plugins:
 
 extra:
     generator: false
+    social:
+        - icon: fontawesome/brands/telegram
+          link: https://t.me/xsltdev
