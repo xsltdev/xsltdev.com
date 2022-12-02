@@ -47,6 +47,7 @@ plugins:
           prebuild_index: true
     - awesome-pages
     - section-index
+    - social
 
 extra:
     generator: false
