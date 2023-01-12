@@ -2,7 +2,7 @@ site_name: 'XSLT 3.1 with examples'
 site_url: 'https://xsltdev.com/'
 site_description: 'XSLT 3.1 Documentation with examples'
 site_author: 'xsltdev.com'
-copyright: '(С) 2019 - 2022, XSLT 3.1 Documentation and examples'
+copyright: '&copy; 2019-2023, XSLT 3.1 Documentation and examples'
 
 repo_name: 'Github'
 repo_url: 'https://github.com/xsltdev/xsltdev.com'
@@ -22,6 +22,7 @@ theme:
         - navigation.top
         - search.suggest
         - search.highlight
+        - announce.dismiss
     favicon: xslt.svg
     logo: xslt.svg
 
@@ -46,3 +47,11 @@ plugins:
           prebuild_index: true
     - awesome-pages
     - section-index
+    - social
+
+extra:
+    generator: false
+    social:
+        - icon: fontawesome/brands/telegram
+          link: https://t.me/xsltdev
+          name: Discuss in Telegram group

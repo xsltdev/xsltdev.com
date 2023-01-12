@@ -4,9 +4,7 @@ hide:
   - toc # Hide table of contents
 ---
 
-# Home
-
-## [XSLT Elements](/xslt/)
+# XSLT Elements
 
 XSLT 3.1 Elements reference
 
