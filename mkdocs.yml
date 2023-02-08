@@ -1,28 +1,38 @@
-site_name: 'XSLT 3.1 with examples'
-site_url: 'https://xsltdev.com/'
-site_description: 'XSLT 3.1 Documentation with examples'
-site_author: 'xsltdev.com'
-copyright: '&copy; 2019-2023, XSLT 3.1 Documentation and examples'
+site_name: XSLT 3.1 with examples
+site_url: https://xsltdev.com/
+site_description: XSLT 3.1 Documentation with examples
+site_author: xsltdev.com
+copyright: (C) 2019-2023, XSLT 3.1 Documentation and examples
 
 repo_name: 'Github'
 repo_url: 'https://github.com/xsltdev/xsltdev.com'
 
 theme:
-    name: 'material'
+    name: material
     custom_dir: overrides
     palette:
-        primary: 'green'
-        accent: 'green'
-    language: 'en'
+        - media: '(prefers-color-scheme: light)'
+          scheme: default
+          primary: green
+          accent: green
+          toggle:
+              icon: material/toggle-switch-off-outline
+              name: Тёмная тема
+        - media: '(prefers-color-scheme: dark)'
+          scheme: slate
+          primary: green
+          accent: green
+          toggle:
+              icon: material/toggle-switch
+              name: Светлая тема
+    language: en
     #    favicon: 'assets/images/favicon.ico'
     feature:
-        - navigation.instant
         - navigation.tabs
         - navigation.tracking
         - navigation.top
-        - search.suggest
-        - search.highlight
-        - announce.dismiss
+        - navigation.path
+        - content.action.edit
     favicon: xslt.svg
     logo: xslt.svg
 
@@ -32,19 +42,21 @@ markdown_extensions:
           guess_lang: false
           linenums: false
     - toc:
-          permalink: ⚓︎
+          permalink: true
     - pymdownx.extra
     - pymdownx.details
     - pymdownx.emoji:
           emoji_index: !!python/name:materialx.emoji.twemoji
           emoji_generator: !!python/name:materialx.emoji.to_svg
-    - pymdownx.tabbed
+    - pymdownx.tabbed:
+          alternate_style: true
     - pymdownx.superfences
 
 plugins:
     - search:
           separator: '[\s\-\:]+'
-          prebuild_index: true
+          lang:
+              - en
     - awesome-pages
     - section-index
     - social
@@ -52,6 +64,6 @@ plugins:
 extra:
     generator: false
     social:
-        - icon: fontawesome/brands/telegram
-          link: https://t.me/xsltdev
-          name: Discuss in Telegram group
+        - icon: fontawesome/solid/code
+          link: 'https://xsltdev.ru/'
+          name: XSLT docs

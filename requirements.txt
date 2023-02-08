@@ -4,8 +4,9 @@ livereload
 Markdown
 MarkupSafe
 mkdocs
-mkdocs-awesome-pages-plugin
+pymdown-extensions
 mkdocs-material
+mkdocs-awesome-pages-plugin
 mkdocs-minify-plugin
 mkdocs-section-index
 PyYAML
