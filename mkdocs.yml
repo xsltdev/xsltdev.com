@@ -64,12 +64,6 @@ plugins:
 extra:
     generator: false
     social:
-<<<<<<< HEAD
         - icon: fontawesome/solid/code
           link: 'https://xsltdev.ru/'
           name: XSLT docs
-=======
-        - icon: fontawesome/regular/money-bill
-          link: https://boosty.to/bndby
-          name: Support author
->>>>>>> 625fdad602bf0971ed6287041e21ffb9e9e2ac1d
