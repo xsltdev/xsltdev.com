@@ -33,6 +33,20 @@ _Available in XSLT 3.0. From Saxon 9.8, available in all editions. Implemented i
 
 For an example of the use of a capturing accumulator rule to construct the glossary of a document, see the blog article [Capturing Accumulators](http://dev.saxonica.com/blog/mike/2018/03/capturing-accumulators.html).
 
+## Example
+
+```xslt
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <!-- Declare accumulator for calculating minimum salary -->
+  <xsl:accumulator name="min-salary" initial-value="10000000">
+    <!-- Define rule for employee elements -->
+    <xsl:accumulator-rule match="employee" select="if (@salary lt $value) then @salary else $value"/>
+  </xsl:accumulator>
+  
+  <!-- The rest of the style -->
+</xsl:stylesheet>
+```
+
 ## Links
 
 - [XSLT 3.0 Specification](http://www.w3.org/TR/xslt-30/#element-accumulator-rule)
