@@ -26,7 +26,6 @@ theme:
               icon: material/toggle-switch
               name: Светлая тема
     language: en
-    #    favicon: 'assets/images/favicon.ico'
     feature:
         - navigation.tabs
         - navigation.tracking
@@ -58,7 +57,6 @@ plugins:
           lang:
               - en
     - awesome-pages
-    - section-index
     - social
 
 extra:
